@@ -50,48 +50,39 @@
 
       <div class="content">
         <div class="page-header">
-          <h1>HOME <small>ABOUT ME</small></h1>
+          <h1>CONTACT</h1>
         </div>
         <div class="row">
           <div class="span10">
-            <h2>My Pictures </h2> <h6> Gallery </h6>
-				<a class="fancybox" href="images/q.jpg" data-fancybox-group="gallery" title="KYU">
-				<img src="images/q.jpg" alt="Kyu">
-				<a class="fancybox" href="images/q2.jpg" data-fancybox-group="gallery" title="KYU">
-				<a class="fancybox" href="images/q3.jpg" data-fancybox-group="gallery" title="KYU">
-				<a class="fancybox" href="images/q4.jpg" data-fancybox-group="gallery" title="KYU">
-				<a class="fancybox" href="images/q5.jpg" data-fancybox-group="gallery" title="KYU">
-				</a>
+            <h2>Contact</h2> <h6>Yo! What's up!</h6>
+		  <img src="images/fight.jpg">
           </div>
           <div class="span4">
-            <h3>About Me</h3>
-				<br>
-				<br>
-				<h5>WELCOME TO <br>
-				MY FIRST WEBSITE.</h5>
-				<h6>My nams is Kyudong Nam. <br>I was born and raised in Seoul, South Korea.<br>
-				<br>
-				<br>I am a junior student at UCSD and studying Computer Engineering. 
-				</h6>
+            <h3>Information</h3>
+			<br>
+			<br>
+			<br>
+			<br>
+			<h6>Kyudong Nam`</h6>
+			<h6>Facebook:<a href="http://www.facebook.com/profile.php?id=100001262356409">
+								facebook.com/kyudongnam
+								</a>
+			</h6>
+			<h6>E-mail:</h6><a href="mailto: k2nam@ucsd.edu">
+				k2nam@ucsd.edu
+				</a>
           </div>
         </div>
 		<div class="footer">
-			<div class="footer_text">
+				<div class="footer_text">
 				Copyright @ 2012 Kyudong Nam
 				<br>
-				<a href="mailto: k2nam@ucsd.edu" > 
-					<strong>E-mail: k2nam@ucsd.edu </strong>
+				E-mail: <a href="mailto: k2nam@ucsd.edu" > 
+					<strong>k2nam@ucsd.edu </strong>
 				</a>
-			</div>
+				</div>
 		</div> <!-- /footer -->
       </div>
-
-
     </div> <!-- /container -->
-	
-
-
-  
-
 </body>
 </html>
